@@ -16,8 +16,7 @@ def hopper
         }
      }
 
-hopper = :known_for => "COBOL",
-         :languages => ["COBOL", "FORTRAN"]
+hopper = {:known_for => "COBOL", :languages => ["COBOL", "FORTRAN"]}
 end
 
 def alan_kay_is_known_for
