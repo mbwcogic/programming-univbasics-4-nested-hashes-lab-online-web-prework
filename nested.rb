@@ -69,7 +69,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-adding_matz=:yukihiro_matsumoto.include
+programmer_hash=
  		{
         :grace_hopper => {
           :known_for => "COBOL",
@@ -84,7 +84,7 @@ adding_matz=:yukihiro_matsumoto.include
           :languages => ["C"]
         }
      }
- 
+    programmer_hash[yukihiro_matsumoto]= 
     programmer_hash
 end
 
