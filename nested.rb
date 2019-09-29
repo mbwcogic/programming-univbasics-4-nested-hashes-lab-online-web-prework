@@ -85,7 +85,7 @@ adding_matz=:yukihiro_matsumoto.include
         }
      }
  
-    yukihiro_matsumoto
+    programmer_hash
 end
 
 def changing_alan
