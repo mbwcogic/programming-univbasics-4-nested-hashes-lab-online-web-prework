@@ -112,7 +112,7 @@ def changing_alan
      alans_new_info = "GUI"
     (changing_alan[:alan_kay][:known_for]= alans_new_info)
    
-   alans_new_info  
+   changing_alan
 end
 
 def adding_to_dennis
