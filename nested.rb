@@ -41,7 +41,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-     alan_kay_is_known_for= {known_for => "Object Orientation"}
+     alan_kay_is_known_for= :known_for}
 end
 
 def dennis_ritchies_language
